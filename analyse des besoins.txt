@@ -1,0 +1,7 @@
+-----------------------------------------------------------analyse des besoins--------------------------------------------------------------
+1- il existe une bare de recherche  accompagneé d'une partie de filtrage qui peut être utiliser d'une maniere facultative
+2- si l'utlisateur clique sur le bouton inscrit un formulaire d'incription apparait qu'il faut le remplir pour être inscrit par la suite
+3- lorsque l'utilisateur clique sur le bouton s'inscrire, il va être diriger vers son profil qui contient son mur et sa biographie   
+4- chaque abonné a le droit de créer des nouvelles recettes et les ajouter en attendant la confirmation de l'administrateur a propos l'ajout  
+si la demende a été accepter un e-mail de confirmation va être envoyer a l'abonné sinon si l'administrateur refuse d'approuver l'ajout de la 
+recette un e-mail de negation va etre envoyer a l'abonné

@@ -1,0 +1,8 @@
+-----------------------------definir les besoin------------------------------------------------
+
+1-  le site web doit être facile a utiliser et a une interface simple
+2-  chaque utilisateur peut consulter ou chercher ses recettes selon des filtres qui peut l'appliquer optionnellement
+3-  chaque abonné doit être inscrit  à travers un formulaire 
+4-  chaque abonné peut ajouter une ou des recettes de cuisine  
+5-  chaque recette envoyé par un abonné doit être approuver par un administrateur
+
